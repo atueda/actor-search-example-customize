@@ -1,3 +1,9 @@
+rubytomato様が作成されたサンプルコードをSpring3.0にて動くようにカスタマイズしました。
+
+元リンク：https://qiita.com/rubytomato@github/items/e4fda26faddbcfd84d16
+
+Read.me の内容は元リンクと同じ内容となっております。
+
 # 概要
 
 MySQLとSpring Bootを使用した簡単な検索ができるWebアプリケーションです。
@@ -9,12 +15,12 @@ MySQLとSpring Bootを使用した簡単な検索ができるWebアプリケー�
 
 * Windows7 (64bit)
 * Java 1.8.0_60
-* Spring Boot 1.2.5
- * thymeleaf 2.1.4
- * logback 1.1.3
-* MySQL CE 5.6
-* Eclipse 4.4
-* Maven 3.3.3
+* Spring Boot 3.0.5
+ * thymeleaf 6.3.1
+ * logback 1.4.6
+* MySQL CE 8.0
+* Eclipse 4.27.0
+* Maven 3.9.1
 
 **事前準備**
 
