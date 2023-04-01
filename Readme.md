@@ -67,4 +67,4 @@ MySQLサーバーを起動した状態で、下記のmvnコマンドでアプリ
 > mvn spring-boot:run
 ```
 
-http://localhost:9000/actor
+http://localhost:9001/actor
